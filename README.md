@@ -12,7 +12,7 @@
 
 I am an **AI Engineer / Data Scientist** and a final-year **Computer Science (Data Science)** student at **University of Science – VNUHCM** *(GPA: 3.45/4)*. I focus on building intelligent real-time AI systems that bridge **Computer Vision, NLP, and Edge AI deployment**.
 
-- 💼 **Current Internship:** AI Engineer Intern at **FUJINET SYSTEMS JSC (R&D Center)** since March 2026.
+- 💼 **Current Junior:** AI Engineer/Researcher at **FUJINET SYSTEMS JSC (R&D Center)** since March 2026.
 - 🚦 **Current Main Project:** Developing an **Intelligent Traffic Violation Detection System** using YOLO26s + DeepSort with deployment on **Rockchip NPU (NanoPi)** through optimized C++ inference pipelines.
 - 🛠️ **Research Interests:** Advanced **RAG Architectures** including HippoRAG, HydraRAG, MA-RAG, and M3DocRAG for next-generation LLM systems.
 - 🌱 **Learning Path:** Optimizing LLMs, edge inference acceleration, and scalable AI deployment pipelines.
