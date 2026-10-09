@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Engineer+Intern;Data+Scientist;Computer+Vision+Researcher;Edge+AI+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Engineer;Data+Scientist;Computer+Vision+Researcher;Edge+AI+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@ I am an **AI Engineer / Data Scientist** and a final-year **Computer Science (Da
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThunderRed1578&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
